@@ -1,0 +1,42 @@
+{
+    "colors": {
+        "background": "#000000",
+        "footer": "",
+        "chat": {
+            "admin": "#42A5DC",
+            "ambassador": "",
+            "cohost": "#ac76ff",
+            "residentdj": "#ac76ff",
+            "host": "#ac76ff",
+            "manager": "#ac76ff",
+            "bouncer": "#ac76ff",
+            "message": "#B0B0B0"
+        }
+    },
+    "css": {
+        "font": [],
+        "import": ["https://i.animemusic.me/rss.css"],
+        "rule": {
+        }
+    },
+    "images": {
+        "background": "",
+        "booth": "",
+        "playback": "https://i.imgur.com/6gmwlT1.png",
+        "icons": {
+            "bouncer": "https://i.imgur.com/NIYvUDv.png",
+            "cohost": "https://i.imgur.com/NIYvUDv.png",
+            "host": "https://i.imgur.com/NIYvUDv.png",
+            "manager": "https://i.imgur.com/NIYvUDv.png"
+        }
+    },
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": false,
+        "forceSmartVote": false
+    }
+}
