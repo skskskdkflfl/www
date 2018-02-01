@@ -108,6 +108,7 @@ i.icon.icon-chat-dj {
 #room-bar .icon-room { 
 	background: url(http://i.imgur.com/2W5yh5k.png);
 }
-#chat-messages { 
-.id-21586780 .badge-box i.bdg{background-image: url('http://i.imgur.com/uztPR7p.gif');background-size:cover
+.id-21586780 > .badge-box > i.bdg {
+    background-image: url('https://raw.githubusercontent.com/baseballboyg/Mineplex/master/g.gif');
+    background-size: cover;
 }
