@@ -482,7 +482,7 @@ transition: 100ms linear 50ms;
 	-o-transition: all .9s ease;
 	border-top-color:#E6A21C;
 }
-/* menu thing */
+
 #user-menu .item.selected {
     background: rgba(0, 181, 230, 0.97);
     cursor: default;
