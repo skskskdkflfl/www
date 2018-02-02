@@ -2,16 +2,16 @@
 	background: linear-gradient(to bottom,rgba(217,242,250, 0.2) 0,rgba(217,242,250, 0.2) 100%);
 }
 #footer-user .info.showing .meta .bar .progress {
-	background:#2D9400;
+	background:#D9F2FA;
 }
 #footer-user .info.showing .meta .level .label {
-	color:#EFEFEF;
+	color:#D9F2FA;
 }
 #footer-user .info.showing .meta .level .value {
-	color:#EFEFEF;
+	color:#D9F2FA;
 }
 #footer-user .info.is-staff.showing .name {
-	color: #0EB006;
+	color: #D9F2FA;
 }
 #footer .shop-button {
 	background: linear-gradient(to bottom,rgba(217,242,250, 0.2) 0,rgba(217,242,250, 0.2) 100%);
@@ -32,37 +32,37 @@
 	background: linear-gradient(to left,rgba(217,242,250, 0.2) 10%,rgba(217,242,250, 0.2) 100%);
 }
 .welcome .text {
-	color:#DEDEDE;
+	color:#D9F2FA;
 }
 .group.host {
-	color:#0B950B;
+	color:#D9F2FA;
 }
 i.icon.icon-chat-host {
 	background : url(https://dl.dropboxusercontent.com/s/t70qvqutc7043rd/SM-Host.png?dl=0);
 }
 .group.manager {
-	color:#01D758;
+	color:#D9F2FA;
 }
 i.icon.icon-chat-manager {
 	background : url(https://dl.dropboxusercontent.com/s/w0b2u64yi1sa6xq/SM-Manager.png?dl=0);
 }
 .group.bouncer {
-	color:#3AF24B;
+	color:#D9F2FA;
 }
 i.icon.icon-chat-bouncer {
 	background : url(https://dl.dropboxusercontent.com/s/cr6oqo3gkzluej7/SM-Bouncer.png?dl=0);
 }
 .group.dj {
-	color:#7DCF25;
+	color:#D9F2FA;
 }
 i.icon.icon-chat-dj {
 	background : url(https://dl.dropboxusercontent.com/s/u6io4evqkij2gth/SM-Resdj.png?dl=0);
 }
 #user-rollover .info .level .label {
-	color:#EFEFEF;
+	color:#D9F2FA;
 }
 #user-rollover.is-staff .info .role span {
-	color: #0EB006;
+	color: #D9F2FA;
 }
 #vote {
 	opacity: 0.90;
