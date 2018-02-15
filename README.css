@@ -9,10 +9,10 @@
 
 
 #user-menu, #room-settings-menu, #playlist-menu {
-	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,0.2));
+	background: linear-gradient(to right, hsla(272, 18%, 35%, 0.75), hsla(272, 18%, 35%,0.8));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
-	background: linear-gradient(hsla(210,10%,7%,0.9), hsla(210,10%,5%,0.9)) !important;
+	background: linear-gradient(hsla(272, 18%, 35%,0.9), hsla(272, 18%, 35%,0.9)) !important;
 }
 #user-menu .item:hover, #room-settings-menu .item:hover {
 	background: linear-gradient(hsla(120, 100%, 75%, 0.3), hsla(120, 100%, 75%, 0.3));
