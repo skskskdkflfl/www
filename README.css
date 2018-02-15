@@ -12,7 +12,7 @@
 	background: linear-gradient(hsla(60, 24%, 10%, 0.97), hsla(60, 24%, 10%, 0.97));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
-	background: linear-gradient(hsla(329, 74%, 79%, 0.94), hsla(329, 84%, 90%, 0.94)) !important;
+	background: linear-gradient(hsla(204, 84%, 93%, 0.94), hsla(204, 84%, 73%, 0.94)) !important;
 }
 
 
