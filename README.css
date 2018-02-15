@@ -213,12 +213,12 @@
 }
 /*--[dj-button]--*/
 #dj-button {
-	border-radius: 70px;
-	background: linear-gradient(hsla(49,10%,50%,0.6), hsla(49,10%,40%,0.6));
+	border-radius: 50px;
+	background: linear-gradient(hsla(0,10%,70%,0.3), hsla(0,10%,80%,0.2));
 	box-shadow: 0 0 10px #000;
 }
 #dj-button:hover {
-	background: linear-gradient(hsla(49,10%,50%,0.5), hsla(49,10%,40%,0.5));
+	background: linear-gradient(hsla(49,10%,50%,0.7), hsla(49,10%,40%,0.7));
 }
 #dj-button .left {
 	border-radius: 50px 0 0 50px;
