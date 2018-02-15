@@ -6,11 +6,13 @@
     background: url('http://i.imgur.com/HItyCRR.jpg') !important;
     background-size: cover;
 }
+
+
 #user-menu, #room-settings-menu, #playlist-menu {
-	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,0.2));
+	background: linear-gradient(to right, hsla(10,10%,40%,0), hsla(10,10%,50%,0.2));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
-	background: linear-gradient(hsla(210,10%,7%,0.9), hsla(210,10%,5%,0.9)) !important;
+	background: linear-gradient(hsla(10,10%,7%,0.9), hsla(10,10%,5%,0.9)) !important;
 }
 #user-menu .item:hover, #room-settings-menu .item:hover {
 	background: linear-gradient(hsla(205,100%,40%,0.6), hsla(205,100%,30%,0.6));
