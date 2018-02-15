@@ -9,7 +9,7 @@
 
 
 #user-menu, #room-settings-menu, #playlist-menu {
-	background: linear-gradient(to right, hsla(272, 18%, 35%, 0.75), hsla(272, 18%, 35%,0.8));
+	background: linear-gradient(to right, hsla(272, 18%, 35%, 0.75), hsla(346, 99%, 24%, 0.88));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
 	background: linear-gradient(hsla(272, 18%, 35%,0.9), hsla(272, 18%, 35%,0.9)) !important;
