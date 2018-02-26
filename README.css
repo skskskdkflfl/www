@@ -10,6 +10,11 @@
     background-size: cover;
 }
 
+#chat [data-cid^="17532797-"] i.bdg, #user-rollover.id-21586780 i.bdg, #chat .id-21586780 i.bdg {
+    background: url('https://i.imgur.com/dIMQV3W.png') !important;
+    background-size: cover;
+}
+
 
 
 
