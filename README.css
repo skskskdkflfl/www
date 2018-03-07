@@ -5,12 +5,13 @@
 #room-bar .icon-room { 
 	background: url(https://i.imgur.com/3EvrL5J.png);
 }
+
 #chat [data-cid^="21586780-"] i.bdg, #user-rollover.id-21586780 i.bdg, #chat .id-21586780 i.bdg {
     background: url('https://i.imgur.com/dIMQV3W.png') !important;
     background-size: cover;
 }
 
-#chat [data-cid^="14633936-"] i.bdg, #user-rollover.id-21586780 i.bdg, #chat .id-21586780 i.bdg {
+#chat [data-cid^="14633936-"] i.bdg, #user-rollover.id-14633936 i.bdg, #chat .id-21586780 i.bdg {
     background: url('https://i.imgur.com/nallRlK.png') !important;
     background-size: cover;
 }
