@@ -17,6 +17,16 @@
 }
 
 
+#chat [data-cid^="13445343-"] i.bdg, #user-rollover.id-14633936 i.bdg, #chat .id-14633936 i.bdg {
+    background: url('https://i.imgur.com/qgDdD3n.png') !important;
+    background-size: cover;
+}
+
+#chat [data-cid^="6719954-"] i.bdg, #user-rollover.id-14633936 i.bdg, #chat .id-14633936 i.bdg {
+    background: url('https://i.imgur.com/X7DYnnK.png') !important;
+    background-size: cover;
+}
+
 
 
 
