@@ -6,7 +6,7 @@
 	background: url(https://i.imgur.com/3EvrL5J.png);
 }
 
-#chat [data-cid^="17532797-"] i.bdg, #user-rollover.id-17532797 i.bdg, #chat .id-21586780 i.bdg {
+#chat [data-cid^="17532797-"] i.bdg, #user-rollover.id-17532797 i.bdg, #chat .id-17532797 i.bdg {
     background: url('https://i.imgur.com/dIMQV3W.png') !important;
     background-size: cover;
 }
@@ -17,16 +17,20 @@
 }
 
 
-#chat [data-cid^="13445343-"] i.bdg, #user-rollover.id-14633936 i.bdg, #chat .id-14633936 i.bdg {
+#chat [data-cid^="13445343-"] i.bdg, #user-rollover.id-13445343 i.bdg, #chat .id-13445343 i.bdg {
+    background: url('https://i.imgur.com/pafZlic.png') !important;
+    background-size: cover;
+}
+
+#chat [data-cid^="6719954-"] i.bdg, #user-rollover.id-6719954 i.bdg, #chat .id-6719954 i.bdg {
     background: url('https://i.imgur.com/qgDdD3n.png') !important;
     background-size: cover;
 }
 
-#chat [data-cid^="6719954-"] i.bdg, #user-rollover.id-14633936 i.bdg, #chat .id-14633936 i.bdg {
-    background: url('https://i.imgur.com/X7DYnnK.png') !important;
+#chat [data-cid^="6590621-"] i.bdg, #user-rollover.id-6590621 i.bdg, #chat .id-6590621 i.bdg {
+    background: url('https://i.imgur.com/FQ4PsWz.png') !important;
     background-size: cover;
 }
-
 
 
 
