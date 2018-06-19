@@ -42,7 +42,9 @@
     background: url('https://i.imgur.com/X7DYnnK.png') !important;
     background-size: cover;
 	
-
+#chat [data-cid^="8209840-"] i.bdg, #user-rollover.id-8209840 i.bdg, #chat .id-8209840 i.bdg {
+    background: url('https://i.imgur.com/7E0XcWO.png') !important;
+    background-size: cover;
 
 /*--[PLUG]--*/
 
